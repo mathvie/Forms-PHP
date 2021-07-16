@@ -1,2 +1,2 @@
 # Forms-PHP
-Formulário em PHP e MySQL
+Protótipo de Formulário utilizando PHP e MySQL 
